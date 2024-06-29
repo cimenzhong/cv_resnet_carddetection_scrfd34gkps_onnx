@@ -1,0 +1,2 @@
+# cv_resnet_carddetection_scrfd34gkps_onnx
+covert iic/cv_resnet_carddetection_scrfd34gkps to onnx
